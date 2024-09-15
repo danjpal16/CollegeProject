@@ -10,3 +10,17 @@
     height: auto;
     width: 50%;
 }
+
+.card1 {
+    background-color: white;
+    color: #B20931;
+    width: auto;
+}
+
+body {
+    background-color: grey;
+}
+
+.logo2 {
+    width: 50%;
+}
