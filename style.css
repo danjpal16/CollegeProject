@@ -14,7 +14,7 @@
 .card1 {
     background-color: white;
     color: #B20931;
-    width: auto;
+    height: 75%;
 }
 
 body {
@@ -22,5 +22,13 @@ body {
 }
 
 .logo2 {
-    width: 50%;
+    background-color: white;
+}
+
+.aboutinfo {
+    font-size: 150%;
+}
+
+.carousel1 {
+    align-items: center;
 }
