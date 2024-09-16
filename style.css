@@ -14,19 +14,11 @@
 .card1 {
     background-color: white;
     color: #B20931;
-    height: 75%;
+    height: auto;
 }
 
 body {
     background-color: grey;
-}
-
-.logo2 {
-    background-color: white;
-}
-
-.aboutinfo {
-    font-size: 150%;
 }
 
 .carousel1 {
