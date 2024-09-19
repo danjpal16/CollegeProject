@@ -32,3 +32,13 @@ body {
 .card13 {
     background-color: white;
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #B20931;
+    color: white;
+    text-align: center;
+}
