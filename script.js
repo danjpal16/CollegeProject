@@ -80,7 +80,7 @@ function generateTeamCards(){
 
 
         card.innerHTML= `
-            <div class="card p-2">
+            <div class="card alumni p-2">
                 <div class="card-header">
                 ${member.name}
                 </div>
